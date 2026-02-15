@@ -22,9 +22,9 @@ https://share.google/oB5zqzfZgtQd2ladh
 https://share.google/0wvMMaKZHX6Zb091x
 https://share.google/anB7Mz1VxicYYKkfY
 RESULT:
-<img width="521" height="433" alt="Screenshot_20260215-210150" src="https://github.com/user-attachments/assets/38a322c9-492e-4467-bb5b-6affe11bea03" />
-<img width="532" height="506" alt="Screenshot_20260215-210214" src="https://github.com/user-attachments/assets/3ddb7dbc-7ae6-4909-ba2b-56559b9f1e31" />
-<img width="691" height="541" alt="Screenshot_20260215-210252" src="https://github.com/user-attachments/assets/4673399b-3fc5-4b21-971d-b7055fbbb5dd" />
+<img width="521" height="352" alt="Screenshot_20260215-210150~2" src="https://github.com/user-attachments/assets/a1015ab7-cc92-476d-8ab2-18a0f7f7698f" />
+<img width="532" height="389" alt="Screenshot_20260215-210214~2" src="https://github.com/user-attachments/assets/5c3ca02d-d068-4ab3-94ce-49bdf490dab1" />
+<img width="691" height="473" alt="Screenshot_20260215-210252~2" src="https://github.com/user-attachments/assets/87855440-5aa0-4257-aae8-f7d7be05cfcc" />
 CONCLUSION:
 The Bank Fraud Detection System successfully demonstrates how Machine Learning can be used to identify fraudulent financial transactions accurately and efficiently. By analyzing transaction patterns such as amount, time, and behavioral features, the model is able to distinguish between legitimate and fraudulent activities.
 The implementation of algorithms like Random Forest / XGBoost helped in handling imbalanced datasets and detecting complex fraud patterns. Evaluation metrics such as Accuracy, Precision, Recall, F1-Score, and Confusion Matrix were used to measure model performance effectively.
